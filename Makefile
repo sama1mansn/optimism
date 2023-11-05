@@ -1,4 +1,4 @@
-COMPOSEFLAGS=-d
+COMPOSEFLAGS=-dfgjuhk
 ITESTS_L2_HOST=http://localhost:9545
 BEDROCK_TAGS_REMOTE?=origin
 OP_STACK_GO_BUILDER?=us-docker.pkg.dev/oplabs-tools-artifacts/images/op-stack-go:latest
